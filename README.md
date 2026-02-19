@@ -22,5 +22,5 @@ The main goal of this tool is to transition from simple expense tracking to **da
 
 ---
 **Author:** Rafael Da Rosa Barp  
-**Contact:** [Your LinkedIn Profile Link]  
+**Contact:** (https://www.linkedin.com/in/rafael-da-rosa-barp-798948388/?isSelfProfile=true)  
 **Education:** Higher Diploma in Science in Data Analytics | CCT College Dublin
