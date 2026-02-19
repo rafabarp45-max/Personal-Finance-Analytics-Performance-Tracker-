@@ -19,8 +19,6 @@ The main goal of this tool is to transition from simple expense tracking to **da
 - **Data Integrity:** Implementation of validation rules to ensure consistent data entry across different months.
 - **Analytical Mindset:** Focused on **Financial Performance Indicators** rather than just bookkeeping.
 
-## Why this project?
-As a **Data Analytics student at CCT College Dublin**, I believe that personal projects are the best way to practice data consistency and reporting. This spreadsheet serves as the foundation for a future project where I intend to use **Python (Pandas)** to automate data extraction and **Power BI** for advanced visualization.
 
 ---
 **Author:** Rafael Da Rosa Barp  
